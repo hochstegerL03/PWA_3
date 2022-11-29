@@ -1,0 +1,15 @@
+{
+  "name": "employees-server",
+  "version": "1.0.0",
+  "description": "Simple server for our PWA app",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "RB",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
